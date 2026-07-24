@@ -90,15 +90,13 @@ Durante el proyecto se elaboró:
 ---
 
 ## Resultado de Ejecución
-Casos de prueba ejecutados:
-**15**
-Resultados:
-Resultado 
-PASS: 15
-FAIL: 0
-Bugs encontrados: 0 
+Se ejecutaron un total de **15 casos de prueba**.
+Resultados obtenidos:
 
----
+- **PASS:** 15
+- **FAIL:** 0
+- **Bugs encontrados:** 0
+
 
 ## Conclusión
 Se realizaron pruebas sobre la base de datos verificando correctamente el almacenamiento, consulta y relación de información entre usuarios, productos y pedidos.
