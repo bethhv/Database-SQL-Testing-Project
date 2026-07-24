@@ -90,8 +90,10 @@ Durante el proyecto se elaboró:
 ---
 
 ## Resultado de Ejecución
-Se ejecutaron un total de **15 casos de prueba**.
-Resultados obtenidos:
+
+Casos de prueba totales: **15**
+
+### Resultados
 
 - **PASS:** 15
 - **FAIL:** 0
