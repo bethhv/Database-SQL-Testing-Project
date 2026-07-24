@@ -93,11 +93,10 @@ Durante el proyecto se elaboró:
 Casos de prueba ejecutados:
 **15**
 Resultados:
-| Resultado | Cantidad |
-|------------|----------|
-| PASS | 15 |
-| FAIL | 0 |
-| Bugs encontrados | 0 |
+Resultado 
+PASS: 15
+FAIL: 0
+Bugs encontrados: 0 
 
 ---
 
